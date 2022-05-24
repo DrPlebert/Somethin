@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         9Anime tab title changer please updata
+// @name         9Anime tab title changer
 // @namespace    http://tampermonkey.net/
 // @version      0.1
 // @description  Taiga stuff
@@ -19,7 +19,7 @@ function changetabtitle() {
     match = regex.exec(thejuice)
     juice1 = match[1].replace(/-/g," ")
     juice2 = match[2].replace("ep-","episode ")
-    document.title = "the juice"
+    document.title = "the juicee"
 };
 
 
