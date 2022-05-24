@@ -37,6 +37,7 @@
         if (match[0]!=null){
             juice1 = match[1].replace(/-/g," ")
             juice2 = match[2].replace("ep-","episode ")
+            juice2 = match[2].replace("full","1")
             document.title = juice1+" "+juice2
         }
     };
