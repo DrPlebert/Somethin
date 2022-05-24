@@ -12,7 +12,7 @@
 (function stuff() {
     'use strict';
     var thejuice
-    var regex = /(?:watch\/)(.*)\..+\/(ep-[0-9]+)/ig
+    var regex = /(?:watch\/)(.*)\..+\/(ep-[0-9a-z]+)/ig
     var match
     var juice1
     var juice2
