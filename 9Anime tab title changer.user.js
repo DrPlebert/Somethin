@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         9Anime tab title changer
+// @name         9Anime tab title changer please updata
 // @namespace    http://tampermonkey.net/
 // @version      0.1
 // @description  Taiga stuff
